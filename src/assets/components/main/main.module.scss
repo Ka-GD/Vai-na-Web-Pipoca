@@ -27,3 +27,36 @@ button {
     cursor: pointer;
 
   }
+
+  @media (max-width:768px) {
+
+    main{
+    
+  
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    
+    
+        img{
+        padding-top: 20px;
+        height: 60vh;
+        align-items: center;
+        margin-top: 20px;
+    
+    }
+    }
+    button {
+        height: 10vh;
+        width: 60vw;
+        font-size: 16px;
+        color: #fff;
+        background-color: #ff4500;
+        border-radius: 10px;
+        cursor: pointer;
+    
+      }
+  }
