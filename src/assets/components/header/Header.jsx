@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import s from './header.module.scss';
-import Main from "../main/Main"; // Certifique-se de que este arquivo existe
-import Filmes from "../../../pages/filmes/Filmes"; // Certifique-se de que este arquivo existe
+import Main from "../main/Main"; 
+import Filmes from "../../../pages/filmes/Filmes"; 
 import Series from "../../../pages/series/Series";
 export default function Header() {
   return (

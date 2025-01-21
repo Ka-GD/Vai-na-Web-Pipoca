@@ -3,9 +3,7 @@
 //vou colocar a função map
 export default function Series (){
 
-    //função map
-    //estrutura do array
-  //variavel nome =['intem1','item2','item3']
+   
 
   const series =[ {
     imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVAiDgLI4TJ5rOcJvCgJB-qB1QLeCwTNGvA&s',
